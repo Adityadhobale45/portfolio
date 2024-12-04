@@ -9,8 +9,8 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in IT, I strive to create impactful and
+          Hello, I'm Aditya, a passionate Web developer with a keen eye for Java Developer
+           . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
@@ -18,7 +18,7 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
+          [Btech in Information Technology], [From GHRCEM], [2024] [Degree/Certification],
           [Institution], [Year] [Relevant Course], [Platform/Institution],
           [Year]
         </span>
@@ -28,7 +28,7 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
+          Proficient in [Java,Sql,HTML,CSS,javaScript] Experienced with [Software
           Tools/Technologies] Strong grasp of [Design Principles/Concepts]
           Excellent problem-solving skills Effective communicator and
           collaborator
